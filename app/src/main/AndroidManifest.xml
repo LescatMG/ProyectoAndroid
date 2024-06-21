@@ -8,6 +8,8 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:backgroundTint="@color/rojo"
+        android:color ="@color/rojo"
         android:roundIcon="@drawable/baseline_fact_check_24"
         android:supportsRtl="true"
         android:theme="@style/Theme.DesafioTres_"
