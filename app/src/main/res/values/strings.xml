@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Validador de Contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_condicion">La contraseña debe tener al menos 5 caracteres y una letra mayúscula</string>
+    <string name="texto_botton2">Regresar</string>
+    <string name="text_resultado">Recuerda para que la contraseña sea segura debe cumplir con estas caracteristicas:</string>
+    <string name="text_resultado2">- Al menos 5 caracteres</string>
+    <string name="text_resultado3">- Al menos 1 mayúscula</string>
+    <string name="text_resultado4">Otras caracteristicas que hacen la contraseña más segura</string>
+    <string name="text_resultado5">- Al menos 1 caracter especial (como $#)</string>
+    <string name="text_resultado6">- Al menos 1 número</string>
+    <string name="text_lebel">Validador de Contraseña</string>
+    <string name="text_lebel2">Resultado</string>
+
+</resources>
